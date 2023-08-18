@@ -1,0 +1,25 @@
+body{
+      background-image: linear-gradient( rgb(20, 129, 168), rgb(44, 175, 20), rgb(20, 129, 168));
+      text-align: center;
+      margin: 0;
+      padding: 0;
+}
+canvas{
+      /* background-color: aqua; */
+      background-image: url("./background.png");
+}
+#satya{
+      background-color: black;
+      margin: -3px;
+      color: rgb(255, 255, 255);
+}
+.btn{
+      color: white;
+      size: 25px;
+      background-color: aliceblue;
+}
+/* #play{
+      position: absolute;
+      top: 50%;
+      left: 50%;
+} */
